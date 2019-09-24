@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *Wale: A solution to share libraries in Docker containers
+  *Santoro, Corrado, Fabio D'Urso, and Federico Fausto Santoro.
+  *In FGCS Journal [source](https://www.sciencedirect.com/science/article/pii/S0167739X18327511)
+
 * *Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods.* 
   * Jiwei Xu, Yuewen Wu, Zhigang Lu, Tao Wang.
   * In COMPSAC. [source](https://ieeexplore.ieee.org/abstract/document/8753910)
